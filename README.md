@@ -1,9 +1,16 @@
 # GPT Generated Textbooks
 
-Code to generate textbooks using GPT as well as several fully-generated examples.
+Code to generate textbooks using GPT, with several full examples.
 
+- [_Algebraic Explorations_](https://github.com/RafaelCosman/gpt-generated-textbooks/blob/main/Algebraic%20Explorations.md)
+- [_Biophysics Basics: A Comprehensive Guide_](https://github.com/RafaelCosman/gpt-generated-textbooks/blob/main/Biophysics%20Basics:%20A%20Comprehensive%20Guide.md)
+- [_Hidradenitis Suppurativa: A Comprehensive Overview_](https://github.com/RafaelCosman/gpt-generated-textbooks/blob/main/Hidradenitis%20Suppurativa:%20A%20Comprehensive%20Overview.md)
+- [_Startup Fundraising: A Step-by-Step Guide for First Time Founders_](https://github.com/RafaelCosman/gpt-generated-textbooks/blob/main/Startup%20Fundraising:%20A%20Step-by-Step%20Guide%20for%20First%20Time%20Founders.md)
+- [_The Creative Mind: Unlocking the Secrets of Scientific Creativity_](https://github.com/RafaelCosman/gpt-generated-textbooks/blob/main/The%20Creative%20Mind:%20Unlocking%20the%20Secrets%20of%20Scientific%20Creativity.md)
+- [_The Regenerative Kitchen: A Guide to Regenerative Food Systems_](https://github.com/RafaelCosman/gpt-generated-textbooks/blob/main/The%20Regenerative%20Kitchen:%20A%20Guide%20to%20Regenerative%20Food%20Systems.md)
+- [_Unlocking the Potential: Groundbreaking Applications of Large Language Models_](https://github.com/RafaelCosman/gpt-generated-textbooks/blob/main/Unlocking%20the%20Potential:%20Groundbreaking%20Applications%20of%20Large%20Language%20Models.md)
 
-_Here is the beginning of the textbook on Algebra, feel free to click [here](https://github.com/RafaelCosman/gpt-generated-textbooks/blob/main/algebra_textbook.md) to view the whole thing._
+As a preview, here is the beginning of _Algebraic Explorations_:
 
 ---
 
