@@ -1,4 +1,4 @@
-from agents.agent_helper_functions import ask
+from agent_helper_functions import ask
 
 def outliner(topic):
     query = f"""
@@ -61,7 +61,8 @@ Your job is to write subsection {subsection}.
     return output
 
 # This function runs the other three
-def design_course(topic):
+if __name__ == "__main__":
+    topic = input("What topic would you like a textbook on? ")
     outline = outliner(topic)
 
     section_and_outlines = [(section, suboutliner(topic, outline, section)) for section in outline.splitlines()]
