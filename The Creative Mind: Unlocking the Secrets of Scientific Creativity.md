@@ -1,4 +1,4 @@
-# The Science of Creativity
+# The Creative Mind: Unlocking the Secrets of Scientific Creativity
 
 ## Table of Contents
 
