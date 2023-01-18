@@ -7,8 +7,12 @@ Code to generate textbooks using GPT, with several full examples.
 - [_Hidradenitis Suppurativa: A Comprehensive Overview_](https://github.com/RafaelCosman/gpt-generated-textbooks/blob/main/Hidradenitis%20Suppurativa:%20A%20Comprehensive%20Overview.md)
 - [_Startup Fundraising: A Step-by-Step Guide for First Time Founders_](https://github.com/RafaelCosman/gpt-generated-textbooks/blob/main/Startup%20Fundraising:%20A%20Step-by-Step%20Guide%20for%20First%20Time%20Founders.md)
 - [_The Creative Mind: Unlocking the Secrets of Scientific Creativity_](https://github.com/RafaelCosman/gpt-generated-textbooks/blob/main/The%20Creative%20Mind:%20Unlocking%20the%20Secrets%20of%20Scientific%20Creativity.md)
+- [_The Art of Better Thinking: Overcoming Cognitive Biases and Unlocking Rationality_](https://github.com/RafaelCosman/gpt-generated-textbooks/blob/main/The%20Art%20of%20Better%20Thinking:%20Overcoming%20Cognitive%20Biases%20and%20Unlocking%20Rationality.md)
 - [_The Regenerative Kitchen: A Guide to Regenerative Food Systems_](https://github.com/RafaelCosman/gpt-generated-textbooks/blob/main/The%20Regenerative%20Kitchen:%20A%20Guide%20to%20Regenerative%20Food%20Systems.md)
 - [_Unlocking the Potential: Groundbreaking Applications of Large Language Models_](https://github.com/RafaelCosman/gpt-generated-textbooks/blob/main/Unlocking%20the%20Potential:%20Groundbreaking%20Applications%20of%20Large%20Language%20Models.md)
+
+
+
 
 As a preview, here is the beginning of _Algebraic Explorations_:
 
