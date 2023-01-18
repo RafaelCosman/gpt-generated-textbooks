@@ -4753,6 +4753,8 @@ The result is the matrix C, shown below.
 C =
 [
   [-1, 0],
+]
+```
 
 
 ## B. Matrix Operations
