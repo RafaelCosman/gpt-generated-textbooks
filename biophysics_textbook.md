@@ -1,6 +1,6 @@
-# Biophysics
+# Biophysics Basics: A Comprehensive Guide
 
-# Table of Contents
+## Table of Contents
 
 1. Introduction to Biophysics
     - A. Definition of Biophysics
